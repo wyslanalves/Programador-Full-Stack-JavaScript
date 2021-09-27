@@ -1,0 +1,10 @@
+p{
+    font-family: monospace;/*estilo da fonte*/
+    font-size: 25px;/*tamanho da fonte*/
+    font-weight: bold;/*peso da fonte*/
+    line-height: 1.5;/*espaço entre linhas*/
+    text-align: center;/*alinha o texto*/
+}
+h1{
+    text-decoration: underline;
+}

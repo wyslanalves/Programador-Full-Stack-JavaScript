@@ -1,0 +1,3 @@
+/*
+explicação sem exemplo
+*/ 

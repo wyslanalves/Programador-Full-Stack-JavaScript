@@ -1,0 +1,34 @@
+/*
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Seletores_CSS​
+https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+*/
+
+/*selecionar todos elementos*/
+/*
+*{
+
+}
+*/
+/*seletor decendecia*/
+/*
+li a{
+
+}
+/*seletor filho*/
+/*
+li > a{
+
+}
+*/
+/*seletor adjacente**/
+h1 + h4{
+    border:  4px solid #333;
+}
+/*seletor*/
+a[href='/recibo']{
+    color: hotpink;
+}
+/*pseu do class*/
+li:nth-of-type(2){
+    color: indigo;
+}
