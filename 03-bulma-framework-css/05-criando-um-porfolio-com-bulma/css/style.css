@@ -4,3 +4,9 @@
 .card{
     margin-bottom: 20px;
 }
+.menu-list li{
+    list-style: none;
+}
+.menu{
+    margin: 0;
+}
